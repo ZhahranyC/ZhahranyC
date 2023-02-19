@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Zhahrany" src="https://firebasestorage.googleapis.com/v0/b/fireship-demos-303df.appspot.com/o/posters%2Fwallpaperflare.com_wallpaper%20(3).webp?alt=media&token=76aee9cd-ba03-41aa-bdfc-54d8c06116cc"/>
+<img align="right" width="50%" alt="Zhahrany" src="https://firebasestorage.googleapis.com/v0/b/fireship-demos-303df.appspot.com/o/posters%2Fwallpaperflare.com_wallpaper%20(3).webp?alt=media&token=76aee9cd-ba03-41aa-bdfc-54d8c06116cc"/>
   
 <div width="400">
 
